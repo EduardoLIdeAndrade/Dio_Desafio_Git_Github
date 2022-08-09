@@ -34,6 +34,7 @@ GIT
  - Commits = Enviar e encaminhar mudanças :envelope:
 
 [Icones do MarkDown](https://gist.github.com/rxaviers/7360908)
+[MarkDown Info](www.markdownguide.org)
 
 #### Hints
 

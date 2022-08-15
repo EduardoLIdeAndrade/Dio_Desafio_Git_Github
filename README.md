@@ -1,9 +1,8 @@
-# Dio Desafio Git/Github
+# Dio 
 
-## Utilizar o aprendizado do curso : Introdução ao Git e GitHub
+## Utilizar o aprendizado dos cursos da DIO
 
 ### Alguns aprendizados de Git e GitHub, visto no curso,
-
 
 |   | Diferença entre GUI e CLI |   |
 | :---        |    :----:   |          ---: |
@@ -21,7 +20,7 @@ GIT
 | - rmdir = Deletar Pasta  |    |   |
 | - cls = Limpa Comandos  |  Igual   |  - Clear ou Ctrl + L = Limpa Comandos |
 
-### BONUS ###
+### BONUS
 
  - Git -- Version = mostra versão.
  - Seta para Cima :arrow_up: acha seus últimos comandos no GIT.
@@ -33,21 +32,30 @@ GIT
  - Trees = Conjunto de Blobs :palm_tree:
  - Commits = Enviar e encaminhar mudanças :envelope:
 
-[Icones do MarkDown](https://gist.github.com/rxaviers/7360908)
-[MarkDown Info](www.markdownguide.org)
-
-#### Hints
+### Hints
 
 1) Onde podemos atrapalhar o funcionamento?
 - [x] Edições Na Mesma Linha Ao Mesmo Momento 
 - [X] Trocar o Name ou E-mail
 - [ ] Realizar seguindo o passo a passo a seguir.
 
-#### Criar seu Primeiro Repositório No GitHub
+### Criar seu Primeiro Repositório No GitHub
 
 1. git add . ou -a
 2. git commit -m "Comentário Útil
 3. git push origin Master
+
+### Links
+
+- [Icones do MarkDown](https://gist.github.com/rxaviers/7360908)
+- [MarkDown Info](www.markdownguide.org)
+
+### Professores
+
+- [Juliana Mascarenhas](https://www.linkedin.com/in/juliana-mascarenhas-ds/)
+- Introdução a Criação de Websites com HTML5 e CSS3 [Lucas Villa Boin](https://www.linkedin.com/in/vilaboim/)
+- Programação para internet com JavaScript [Rafael Galleani](https://www.linkedin.com/in/rafael-galleani/)
+- Desafio Git/Github [Otavio Reis Perkles](https://www.linkedin.com/in/operkles/)
 
 
 

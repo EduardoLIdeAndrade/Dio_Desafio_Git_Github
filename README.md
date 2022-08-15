@@ -52,10 +52,10 @@ GIT
 
 ### Professores
 
-- [Juliana Mascarenhas](https://www.linkedin.com/in/juliana-mascarenhas-ds/) Introdução à Programação e Pensamento Computacional
-- [Lucas Villa Boin](https://www.linkedin.com/in/vilaboim/) Introdução a Criação de Websites com HTML5 e CSS3 
-- [Rafael Galleani](https://www.linkedin.com/in/rafael-galleani/) Programação para internet com JavaScript
-- [Otavio Reis Perkles](https://www.linkedin.com/in/operkles/) Desafio Git/Github
+[Juliana Mascarenhas](https://www.linkedin.com/in/juliana-mascarenhas-ds/) Introdução à Programação e Pensamento Computacional.
+[Lucas Villa Boin](https://www.linkedin.com/in/vilaboim/) Introdução a Criação de Websites com HTML5 e CSS3. 
+[Rafael Galleani](https://www.linkedin.com/in/rafael-galleani/) Programação para internet com JavaScript.
+[Otavio Reis Perkles](https://www.linkedin.com/in/operkles/) Desafio Git/Github.
 
 
 

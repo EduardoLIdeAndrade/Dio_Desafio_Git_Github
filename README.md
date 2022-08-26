@@ -21,16 +21,16 @@ GIT
 
 Comandos Linux
 
-ls = Listar Arquivos
-     ls | more 
-     ls --help = Ajuda com comandos possíveis
-     ls -l = Muda para Lista Longa
-     ls pa   = todos arquivos comecem com (pa)
-        p    = todos arquivos comecem com (p)
-        p*   = todos arquivos comecem com (p*) e mais alguma coisa
-        pa*  = todos arquivos comecem com (pa*) e mais alguma coisa
-        p?s  = todos arquivos comecem com (p?s) o interrogação significa um caracter qualquer
-        ?as* = todos arquivos que tenham  (?as*) comecem com algum caracter tenha as no meio e mais alguma coisa
+Listar Arquivos = ls. 
+Criar More na lista = ls | more.
+Ajuda com comandos possíveis = ls --help.
+Muda para Lista Longa = ls -l.
+     ls pa   = Todos arquivos comecem com (pa).
+        p    = Todos arquivos comecem com (p).
+        p*   = Todos arquivos comecem com (p*) e mais alguma coisa.
+        pa*  = Todos arquivos comecem com (pa*) e mais alguma coisa.
+        p?s  = Todos arquivos comecem com (p?s) o interrogação significa um caracter qualquer.
+        ?as* = Todos arquivos que tenham  (?as*) comecem com algum caracter tenha as no meio e mais alguma coisa.
         
 find = Procurar
 find -name = Procurar por nome de arquivo
@@ -68,7 +68,7 @@ pwd = Confirmar em qual pasta ou diretorio está
 ### Links
 
 - [Icones do MarkDown](https://gist.github.com/rxaviers/7360908)
-- [MarkDown Info](www.markdownguide.org)
+- [MarkDown Info](https://www.markdownguide.org/basic-syntax/)
 
 ### Professores
 

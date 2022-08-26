@@ -13,12 +13,32 @@
 GIT
 | Windowns  | Diferença Dos Comandos |  Unix = Bash |
 | :---        |    :----:   |          ---: |
-| - cd = Voltar 1 nivel     |   Igual     | -cd = Voltar 1 nivel   |
+| - cd = Ir para outro Diretorio     |   Igual     | -cd = Ir para Outro Diretorio   |
 | - dir = Listar  |   Igual     | - ls = Listar   |
 | - mkdir = Criar Diretorio  |   Igual     | - mkdir = Criar Diretorio   |
 | - del = Deletar Arquivo  |   Igual     | - rm - rf = Deletar Pasta   |
-| - rmdir = Deletar Pasta  |    |   |
 | - cls = Limpa Comandos  |  Igual   |  - Clear ou Ctrl + L = Limpa Comandos |
+
+Comandos Linux
+
+ls = Listar Arquivos
+     ls | more 
+     ls --help = Ajuda com comandos possíveis
+     ls -l = Muda para Lista Longa
+     ls pa   = todos arquivos comecem com (pa)
+        p    = todos arquivos comecem com (p)
+        p*   = todos arquivos comecem com (p*) e mais alguma coisa
+        pa*  = todos arquivos comecem com (pa*) e mais alguma coisa
+        p?s  = todos arquivos comecem com (p?s) o interrogação significa um caracter qualquer
+        ?as* = todos arquivos que tenham  (?as*) comecem com algum caracter tenha as no meio e mais alguma coisa
+        
+find = Procurar
+find -name = Procurar por nome de arquivo
+touche = criar aquivo
+mkdir = criar diretório
+cd.. = voltar uma pasta
+cd = mudar de diretorio ou pasta
+pwd = Confirmar em qual pasta ou diretorio está
 
 ### BONUS
 

@@ -22,23 +22,23 @@ GIT
 Comandos Linux
 
 Listar Arquivos = ls. 
-Criar More na lista = ls | more.
-Ajuda com comandos possíveis = ls --help.
-Muda para Lista Longa = ls -l.
-     ls pa   = Todos arquivos comecem com (pa).
-        p    = Todos arquivos comecem com (p).
-        p*   = Todos arquivos comecem com (p*) e mais alguma coisa.
-        pa*  = Todos arquivos comecem com (pa*) e mais alguma coisa.
-        p?s  = Todos arquivos comecem com (p?s) o interrogação significa um caracter qualquer.
-        ?as* = Todos arquivos que tenham  (?as*) comecem com algum caracter tenha as no meio e mais alguma coisa.
+Criar More na lista = ls | more.  (<br>)
+Ajuda com comandos possíveis = ls --help.  (<br>)
+Muda para Lista Longa = ls -l.  (<br>)
+     ls pa   = Todos arquivos comecem com (pa).  (<br>)
+        p    = Todos arquivos comecem com (p).  (<br>)
+        p*   = Todos arquivos comecem com (p*) e mais alguma coisa.  (<br>)
+        pa*  = Todos arquivos comecem com (pa*) e mais alguma coisa.  (<br>)
+        p?s  = Todos arquivos comecem com (p?s) o interrogação significa um caracter qualquer.  (<br>)
+        ?as* = Todos arquivos que tenham  (?as*) comecem com algum caracter tenha as no meio e mais alguma coisa.  (<br>)
         
-find = Procurar
-find -name = Procurar por nome de arquivo
-touche = criar aquivo
-mkdir = criar diretório
-cd.. = voltar uma pasta
-cd = mudar de diretorio ou pasta
-pwd = Confirmar em qual pasta ou diretorio está
+find = Procurar  (<br>)
+find -name = Procurar por nome de arquivo  (<br>)
+touche = criar aquivo  (<br>)
+mkdir = criar diretório  (<br>)
+cd.. = voltar uma pasta  (<br>)
+cd = mudar de diretorio ou pasta  (<br>) 
+pwd = Confirmar em qual pasta ou diretorio está  (<br>)
 
 ### BONUS
 
